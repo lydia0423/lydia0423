@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lydia
-- 👀 I’m interested in machine learning and also IoT
-- 🌱 I’m currently learning computer vision and data structure and algorithm by using Java
+- 👀 I’m interested in AI related stuff especially LLM
+- 🌱 I’m currently learning LLM and NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> lydia08248@yahoo.com
 
